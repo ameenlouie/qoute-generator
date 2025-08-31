@@ -2,6 +2,7 @@
 This project is a Motivational Quote Generator, a command-line application that generates unique, inspiring quotes on any user-specified topic. It leverages a locally-run large language model to ensure privacy and eliminate reliance on external APIs.
 
 Tools and Technologies Used
+
 This project was built using the following key technologies:
 
 Python: The core programming language used to write the application logic.
